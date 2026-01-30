@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ArchiFree - Enterprise Architecture OS",
+  "description": "A professional, open-source Enterprise Architecture tool for modeling, governance, and business-IT alignment. Designed for large-scale enterprise architects and stakeholders.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
